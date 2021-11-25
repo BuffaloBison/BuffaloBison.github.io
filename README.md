@@ -1,0 +1,1 @@
+# 30rndMagazine.github.io
