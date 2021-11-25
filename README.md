@@ -1,1 +1,1 @@
-# 30rndMagazine.github.io
+# 30rndMagazine.com
