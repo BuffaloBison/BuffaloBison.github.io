@@ -1,1 +1,1 @@
-# 30rndMagazine.com
+# https:///www.30rndMagazine.com
