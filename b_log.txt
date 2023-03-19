@@ -1,4 +1,6 @@
 TOP of LOG
+Sunday 19MAR2023
+There is mounting evidence Dr. Christine Blasey Ford was actually a chatbot. See @@Transcript below.
 
 Thursday 9MAR2023
 New project: My Personal Tokamak
@@ -8,12 +10,12 @@ Item: The cartoon video SOUTH PARK is about competition but not cultural evoluti
 Item: To secure your electronic devices, set the power switch to "OFF" ⌽
 
 Wednesday 1FEB2023
-Below is a reprint of a chatGPT session titled "SSL_TLS_diff"
+Below is a reprint of a chatGPT session titled "SSL_TLS_diff":
 
     @gmail.com:
     are SSL and TLS transport protocols?
 
-    @chatGPT:Yes, SSL (Secure Sockets Layer) and TLS (Transport Layer Security) are both cryptographic protocols that provide secure      communication over a computer network. TLS is the successor to SSL and is widely used today to secure web traffic and other types of communication.
+    @chatGPT:Yes, SSL (Secure Sockets Layer) and TLS (Transport Layer Security) are both cryptographic protocols that provide secure communication over a computer network. TLS is the successor to SSL and is widely used today to secure web traffic and other types of communication.
 
 
 
@@ -88,8 +90,10 @@ Below is a reprint of a chatGPT session titled "SSL_TLS_diff"
     These are just a few examples of communication systems that provide similar security and features to Blackberry. The specific solution that is best for a given organization will depend on its specific requirements and needs.
 EOM
 
+
+
 Tuesday 18OCT2022
-Transcript reflected:
+@@Transcript reflected:
     Senator XXXXXXXXX:How are you so sure that it was he?
     Dr. XXXX: The same way that I’m sure that I’m talking to you
     right now, just basic memory functions and also just the level of
