@@ -1,0 +1,255 @@
+TOP of LOG
+
+Wednesday 18JUN2025
+Conn to git
+Lease Day
+
+Wednesday 19FEB2025
+Song
+    -Allen Ginsberg
+
+    The weight of the world
+           is love.
+    Under the burden
+           of solitude,
+    under the burden
+           of dissatisfaction
+
+           the weight,
+    the weight we carry
+           is love.
+
+    Who can deny?
+           In dreams
+    it touches
+           the body,
+    in thought
+           constructs
+    a miracle,
+           in imagination
+    anguishes
+           till born
+    in human—
+    looks out of the heart
+           burning with purity—
+    for the burden of life
+           is love,
+
+    but we carry the weight
+           wearily,
+    and so must rest
+    in the arms of love
+           at last,
+    must rest in the arms
+           of love.
+
+    No rest
+           without love,
+    no sleep
+           without dreams
+    of love—
+           be mad or chill
+    obsessed with angels
+           or machines,
+    the final wish
+           is love
+    —cannot be bitter,
+           cannot deny,
+    cannot withhold
+           if denied:
+
+    the weight is too heavy
+
+           —must give
+    for no return
+           as thought
+    is given
+           in solitude
+    in all the excellence
+           of its excess.
+
+    The warm bodies
+           shine together
+    in the darkness,
+           the hand moves
+    to the center
+           of the flesh,
+    the skin trembles
+           in happiness
+    and the soul comes
+           joyful to the eye—
+
+    yes, yes,
+           that’s what
+    I wanted,
+           I always wanted,
+    I always wanted,
+           to return
+    to the body
+           where I was born.
+
+Tuesday 3SEP2024
+Added "The Ottoman American Empire" below
+
+Wednesday 3JAN2024
+@30rndmagazine
+
+Monday 11DEC2023
+Troubleshooting
+
+Friyay 28JUN2023
+Devices are demons
+
+Sunday 16APR2023
+Conformity is Br'er Rabbit's tarbaby.
+
+Thursday 13APR2023
+This webpage promises to remain GAN-free.
+
+Monday 10APR2023
+What if, when under siege, USA tells Tsai Ing-wen to 'stand down'?
+
+Monday 27MAR2023
+When sorting out the social stuff, don´t confuse motives with effects.
+
+Sunday 19MAR2023
+There is mounting evidence Dr. Christine Blasey Ford was actually a chatbot. See @@Transcript below.
+
+Thursday 9MAR2023
+New project: My Personal Tokamak
+
+Wednesday 15FEB2023
+Item: The cartoon video SOUTH PARK is about competition but not cultural evolution.
+Item: To secure your electronic devices, set the power switch to "OFF" ⌽
+
+Wednesday 1FEB2023
+Below is a reprint of a chatGPT session titled "SSL_TLS_diff":
+
+    @gmail.com:
+    are SSL and TLS transport protocols?
+
+    @chatGPT:Yes, SSL (Secure Sockets Layer) and TLS (Transport Layer Security) are both cryptographic protocols that provide secure communication over a computer network. TLS is the successor to SSL and is widely used today to secure web traffic and other types of communication.
+
+
+
+
+    @gmail.com:
+    does the authentication server decrypt the password record and compare the clear text password to the password received from a user?
+
+    @chatGPT:No, it's generally not recommended to store passwords in clear text, as this would make them vulnerable to theft in case of a security breach. Instead, passwords are usually stored as hash values, which are created by applying a one-way hash function to the   password. When a user logs in, the authentication server hashes the entered password and compares it to the stored hash value. If the   two hash values match, the password is considered to be correct and the user is granted access. This way, even if the password          database is stolen, the attacker will only obtain the hash values, which cannot be easily reversed to obtain the original passwords.
+
+
+
+
+    @gmail.com:
+    Does TLS create the hash on the client side before sending?
+
+    @chatGPT:No, TLS does not create a hash of the password on the client side before sending it to the server. Instead, TLS is typically used to secure the transmission of login credentials from the client to the server, but it is the server's responsibility to securely store the passwords. In general, the server should store the passwords as salted hashes to prevent attackers from easily cracking the passwords in case of a breach. When a user logs in, the client sends the login credentials to the server, which then hashes the password and compares it to the stored hash value. If the two hash values match, the user is granted access.
+
+
+
+
+    @gmail.com:
+    You are implying the sent login credentials are not encrypted.
+
+    Yes, you are correct. I apologize for the mistake. Login credentials, including passwords, are usually encrypted when transmitted over a network, such as the Internet, to prevent eavesdropping and tampering. This encryption is provided by TLS (Transport Layer Security) or its predecessor SSL (Secure Sockets Layer). When a client establishes a secure connection to a server using TLS, the client and server negotiate a session key that is used to encrypt the data transmitted between them. The encrypted data includes the login credentials, ensuring that they are protected from interception or tampering during transmission.
+
+
+
+
+    @gmail.com:
+    is there such a process as double encryption?
+
+    @chatGPT:Yes, "double encryption" or "multiple encryption" refers to the process of encrypting a message or data multiple times, typically using different encryption algorithms or keys. The idea behind double encryption is to add an additional layer of security to the data, making it more difficult for an attacker to decrypt the data even if they are able to obtain one of the encryption keys. However, multiple encryption may also add complexity to the encryption process and may not always improve security in practice, as the security of an encryption system depends on many factors, including the strength of the encryption algorithms used, the size of the keys, and the methods used to securely manage the keys.
+
+
+
+
+    @gmail.com:
+    In what ways did Blackberry create a secure system of communication?
+
+    @chatGPT:Blackberry created a secure system of communication by implementing several security measures and technologies in their devices and server infrastructure. Some of these include:
+
+    Encryption: Blackberry devices and servers use strong encryption algorithms, such as Advanced Encryption Standard (AES), to encrypt data transmitted over the air and at rest.
+
+    End-to-end encryption: Blackberry's messaging system provides end-to-end encryption, meaning that the messages are encrypted on the sender's device and can only be decrypted on the recipient's device.
+
+    Closed system architecture: Blackberry's infrastructure is designed as a closed system, with tight control over the devices and servers that are part of the network. This makes it difficult for attackers to penetrate the system and access sensitive data.
+
+    Secure boot process: Blackberry devices have a secure boot process that ensures that only authorized software can run on the device. This helps to prevent malware and other malicious software from being installed on the device.
+
+    Remote wipe: Blackberry devices have the ability to be remotely wiped, allowing administrators to erase all data on the device if it is lost or stolen.
+
+    These and other security measures helped to make Blackberry's communication system highly secure and attractive to government agencies and businesses looking for a secure mobile communication solution.
+
+
+
+
+    @gmail.com:
+    can you name some comm systems equivalent to Blackberry in use today?
+
+    @chatGPT:Yes, there are several communication systems available today that are similar to Blackberry in terms of security and features. Some of these include:
+
+    MobileIron: A mobile device management solution that provides secure communication and collaboration for businesses.
+
+    Good Dynamic Secure Mobility Platform: A secure platform for mobile communication and collaboration, formerly known as Blackberry Dynamics.
+
+    AirWatch: A mobile device management solution that provides secure communication and collaboration for businesses.
+
+    Mobile Device Management (MDM) solutions: MDM solutions from vendors such as VMware, Citrix, and Microsoft offer similar security features to Blackberry, including encryption, device management, and remote wipe capabilities.
+
+    Enterprise Mobility Management (EMM) solutions: EMM solutions from vendors such as BlackBerry, AirWatch, and MobileIron offer a comprehensive suite of security and management features for mobile devices and secure communication.
+
+    These are just a few examples of communication systems that provide similar security and features to Blackberry. The specific solution that is best for a given organization will depend on its specific requirements and needs.
+EOM
+
+
+
+Tuesday 18OCT2022
+@@Transcript reflected:
+    Senator XXXXXXXXX:How are you so sure that it was he?
+    Dr. XXXX: The same way that I’m sure that I’m talking to you
+    right now, just basic memory functions and also just the level of
+    norepinephrine and epinephrine in the brain that sort of, as you
+    know, encodes—that neurotransmitter encodes memories into the
+    hippocampus, and so the trauma-related experience then is kind of
+    locked there, whereas other details kind of drift.
+    Senator XXXXXXXXXX. So what you are telling us is this could not
+    be a case of mistaken identity?
+    Dr. XXXX. Absolutely not. 
+
+    Senator YYYYY. Well, then let us go back to the incident. What
+    is the strongest memory you have? The strongest memory of the incident, something that you cannot forget. Take whatever time you
+    need.
+    Dr. XXXX. Indelible in the hippocampus is the laughter, the uproarious laughter between the two and their having fun at my expense.
+
+Saturday 15OCT2022
+So long, Tyler Scott
+
+Wednesday 28SEP2022
+Hurricane IAN brought to shore a reaffirmation of the trope "...all the news fit to print."
+
+Sunday 4SEP2022
+D.C. VERSION OF CONFLICT: Red Joe and the feral federals settle for a whitebread war of misappropriations and sanctions in their effort to punish their foreign foes. Not real battles but limp threats of arms sales. It is not a war of weapons but of tactical vouchers.
+
+Tuesday 30AUG2022
+POLITICAL PLAYBOOK: "The failure of (y)our system [unemployment register, muni water system, street flooding] is due to a lack of maintenance resources and understaffing."
+POLITICAL HINDSIGHT: "It was worse than we thought."
+
+27AUG2022
+"I believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else."
+    -C S Lewis 1968
+
+25AUG2022
+BB:IMO, any incremental federal spending is funded by Treasury instrument sales. Some may correlate direct tax increases to new budget/off-budget spending but the facts just aren't there.
+
+
+23AUG2022
+"I want to introduce my two dogs - GetOffTheRug & YouToo"
+    from IMDB:Merrily We Live
+    
+    
+    https://www.bt.no/nyheter/i/pqR9V/finse
+
+
+EOM
