@@ -1,5 +1,8 @@
 TOP of LOG
 
+Monday 4AUG2025
+Building a syllabus of mechanisms to authenticate documents using digests of hashing operations.
+
 Wednesday 19FEB2025
 Song
     -Allen Ginsberg
