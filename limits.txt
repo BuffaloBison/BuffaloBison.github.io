@@ -1,0 +1,576 @@
+THOUGHTS...
+# Conversation Transcript (August 4, 2025)
+
+## User [Summation of published content Wall Street Journal]
+
+**Mexico’s president wants to reach an agreement with the U.S. to further cooperate on security, but she has been undermined by the cartels’ pervasive influence**
+
+## Assistant
+
+Mexican President Claudia Sheinbaum has recently sought a new and deeper security agreement with the United States, aiming to tackle the ongoing crises of drug trafficking, cartel violence, and border security. The push for collaboration comes amid significant pressure from the Trump administration, which has tied trade considerations and tariffs to action against drug cartels and border control. Trump has even officially designated major Mexican criminal organizations as terrorist groups, intensifying U.S. demands for robust counter-cartel actions and extraditions—sometimes threatening unilateral U.S. operations in Mexican territory if progress lags.
+
+Sheinbaum has responded by significantly increasing Mexico's security deployments: more than 10,000 National Guard troops have been stationed at the border, and Mexico has expanded American surveillance operations on its soil. The Mexican government has also stepped up its efforts to seize fentanyl and other drugs, and has extradited several high-profile cartel figures to the U.S., including notorious leaders. Recent months have also seen record numbers of lab busts, arrests, and targeted crackdowns on cartel operations—measures that have led even cartel operatives to express genuine fear of prosecution or death by authorities.
+
+Despite these moves, Sheinbaum's position is precarious. The political risks are acute—not only because the Trump administration continues to demand investigations and prosecutions of politicians with suspected cartel ties, including some from Sheinbaum's own Morena party, but also because the cartels’ influence remains deeply entrenched in Mexican state and society. Heightened cartel violence, especially after major criminal arrests and infighting within groups like the Sinaloa Cartel, has further complicated her efforts. Cartel factions have targeted politicians, officials, and public figures to maintain regional control and discourage meaningful government intervention.
+
+Additionally, Mexico has drawn a strict line: Sheinbaum insists that no deal will allow U.S. troops or law enforcement to operate on Mexican soil, emphasizing Mexican sovereignty even as she seeks closer operational and intelligence-sharing ties. For her administration, balancing U.S. demands, the sovereignty imperative, and cartel pushback is a formidable challenge.
+
+In summary, while President Sheinbaum has managed to move forward on a bilateral security agreement and has demonstrated a willingness to escalate Mexico’s response to organized crime, her efforts are consistently threatened by the cartels' pervasive power and political influence. U.S. cooperation—and pressure—are driving a new phase in this fight, but real progress will continue to depend on Mexico’s ability to root out cartel infiltration at every level of government and society.
+
+---
+
+## User
+**Criminal organizations often evolve into political movements and institutional parties**
+
+## Assistant
+
+Criminal organizations can and often do evolve into political movements and even institutionalized political parties, though the process is complex and context-dependent. This evolution typically occurs through several mechanisms:
+
+### 1. Brokering Political Power
+
+In some democracies, criminal organizations move beyond simply bribing or intimidating politicians. They may act as electoral brokers, mobilizing votes for candidates in exchange for future protection or access to state resources. Over time, such alliances can become formalized. In places like Brazil, gangs have served as political brokers during elections, leveraging their territorial control and social relationships to sway outcomes. Sometimes, these relationships deepen into long-term partnerships or even result in criminals running for office themselves.
+
+### 2. Transformation through Peace Processes
+
+Several armed or terrorist organizations with a strong criminal profile have later transitioned into legal political movements, most often through peace negotiations. This process typically involves:
+- Abandoning violence,
+- Converting armed structures into political ones,
+- Negotiating amnesties or reintegration into legal society.
+
+**Examples include:**
+- The Irish Republican Army (IRA) leading to Sinn Féin in Ireland,
+- Colombia’s FARC-EP transforming into a legal party after a peace deal,
+- El Salvador's FMLN rebel group becoming a major party.
+
+### 3. Cartel Party Theory
+
+In some cases, the “cartel party” concept describes not literal drug cartels but a form of political party organization where elites—sometimes with criminal backgrounds—collude to control state resources for mutual benefit, minimizing competition. These parties use their access to state funds, jobs, and legal mechanisms to shield themselves and maintain power. This can create a blurred line between crime and politics, with party elites essentially acting as a legalized cartel, prioritizing access to state resources over public accountability or ideological differences.
+
+### 4. Hybridization and Fluidity
+
+The boundaries between criminality and politics can be fluid. Some criminal organizations begin with ideological or political goals and increasingly pursue economic motives (as with some terrorist groups), while some traditionally profit-driven crime groups seek political protection through direct participation in the political system or seek to influence policies favorable to their interests.
+
+---
+
+**Key Takeaway:**
+
+Criminal organizations may enter formal politics by:
+- Directly founding political movements/parties after demobilization,
+- Infiltrating or corrupting existing institutions and parties,
+- Acting as power brokers for political elites seeking electoral success,
+- Colluding with political parties to share access to state resources.
+
+The exact path depends on local conditions, the organization’s sociological basis, the willingness of the political system to negotiate, and the organization’s own goals (ideological, profit-driven, or hybrid). The phenomenon has profound implications for governance, weakening democratic accountability and fostering environments where corruption and violence become normalized within political systems.
+
+4AUG2025 - https://www.perplexity.ai/search/a16936c6-f7cc-4651-8363-b9d15b7ebf62
+
+John Robb's theory
+
+    The hollow state has the trappings of a modern nation-state (“elected leaders,” membership in international organizations, regulations, laws, and a bureaucracy), but it lacks any of the legitimacy, services, and control of its historical counterpart. It is merely a shell that has some influence over the economy’s spoils. The real power rests in the hands of corporations, criminals, super-empowered individuals, and guerrillas (tribal networks) that vie with each other to control sectors of wealth production. For the rest of us, life goes on within a hollow state, but it is debased in myriad ways. The shift from a marginally functional nation-state to a hollow state occurs through a series of crisis events.
+
+    With each crisis, corporations and connected individuals systematically loot the nation-state of financial assets and natural resources in a series of insider/no-cost deals. These deals are made to "save" the nation from collapse. Meanwhile, guerrilla and criminal groups ruthlessly exploit the vacuum it creates.
+
+In Robb’s telling, the hollow state cannot do anything to address the series of crises it faces but can only use the crises as further pretexts for “looting,” i.e., redirecting spoils to connected insiders (think: the Global War on Terror, the upward redistribution of wealth during the COVID-19 pandemic). This incapacity is a product of insiders’ inability or unwillingness to fix underlying rotten assumptions—which either are false or were once true but no longer apply to changed circumstances—because these assumptions are what protect and justify the insiders’ status and thus their access to spoils. Robb cites the example of USAID, which was built on the assumption that the United States needed a soft-power “development” organization to compete with Soviet influence in the Third World. That assumption died with the collapse of the USSR, at which point USAID money was simply redirected to insider causes.
+
+What we are seeing with DOGE and the Trump administration more broadly, Robb writes, is the arrival of “networked governance”—i.e., the seizure of power by a guerilla “tribal network,” which is now making war on the establishment and its rotten assumptions by combining the techniques of “open-source insurgency” with the power of the U.S. executive branch. Here’s Robb again (emphasis ours):
+
+    The Red tribe has appointed many well-known people with powerful networked ledgers (‘truth tellers’ with large followings online and a history of challenging the establishment) to lead the fight, allowing the president to act as a facilitator (authority and executive orders). This decentralization of responsibility has created an open-source dynamic where each leader attacks rotten assumptions in different but complementary ways (from Elon’s DOGE to [Robert F.] Kennedy’s [Health and Human Services] to [Attorney General Pam] Bondi’s Justice [Department] to [Tom] Homan as Border Czar).
+
+While that may be jargon-heavy, the key point is this: There is no master “plan,” but rather a distributed series of attacks all working toward roughly the same goal—that is, dethroning the establishment, discrediting its rotten assumptions, and disrupting its power centers. Trump provides the authority and the general direction, but the specific means are effectively crowdsourced, as various MAGA leaders (agency heads, influencers) experiment and iterate in real time and then copy what works.
+
+Structurally, this makes the “Red tribe” significantly more agile than its opposition, which operates on the basis of traditional vertical authority and consensus. So we should expect to see Trump continue to score victories until the Democrats can innovate a response, perhaps by becoming more decentralized themselves. On the other hand, as Robb notes, discrediting the enemy’s assumptions is necessary but not sufficient for establishing a sustainable new form of governance. For that, you need “a new mechanism for adjudicating the efficacy of new assumptions, measuring their effectiveness over time, and assigning responsibility for failures.”!
+
+OTHER CONTENT...
+
+ from thedailyscroll.substack.com
+
+The Ottoman American Empire
+
+The Obama-Biden blueprint after Gaza
+
+by Tony Badran
+
+According to U.S. Secretary of State Antony Blinken, Israel has “effectively lost sovereignty” over the north of its own country thanks to Hezbollah rocket attacks that have sent 80,000 Israelis fleeing from their homes and set at least 20,000 acres of Israeli land on fire. Blinken made his comments before the Hezbollah rocket attack that killed 12 children in the Israeli Golan Heights community of Majdal Shams, in the wake of which Washington signaled that it would be working to “contain the fallout” from the attack. In both cases, the Biden White House was closely following its existing blueprint for how it expects the eastern Mediterranean will work following the cease-fire it is attempting to enforce on Israel in Gaza, leaving Hamas in charge of the strip as the prelude to formally establishing a U.S.-recognized Palestinian state.
+
+There is nothing secret about the administration’s plan for how it will administer the Levant, which it first unveiled in October 2022 in the form of the Israel-Lebanon maritime border deal brokered by White House emissary Amos Hochstein and signed by the then caretaker prime minister, Yair Lapid, in the waning days of his government. According to the U.S. blueprint, the United States and Iran will jointly administer a set of Levantine provinces, including Israel; a future Palestinian state; and Lebanon. Jordan, which is also part of the local geography, is configured as an American protectorate to balance out Syria, which was recognized by Barack Obama, publicly in 2015 and privately in his letters to Ali Khamenei, as an Iranian regional “equity” and will therefore apparently be administered solely by Iran. Whatever problems may arise between the three Levantine provinces and their local subdivisions are to be adjudicated jointly by the U.S.-Iran condominium, with local governing entities being free to plead their cases in Washington but powerless to take independent action without taking on both the global superpower and its regional partner.
+
+The U.S.-Iranian understanding has governed and constrained Israeli action since the beginning of the Oct. 7 war. By ruling out any major military action against either Hezbollah or Iran and declaring the establishment of a Palestinian state to be a necessary outcome of the end of the Gaza war, it has bound the Israeli war effort in a straitjacket of strategic futility that Prime Minister Benjamin Netanyahu and his government have tried their best to wriggle out of. While the tactical successes of the past few days—in which Israel targeted the upper echelons of the Iranian network in successive strikes in Beirut and Tehran—smartly turned the power vacuum in the White House to Israel’s advantage, it is unclear what, if any, strategic significance they will have past November.
+
+In the last two days of May, the Obama-Biden team again put forward its vision for the joint U.S.-Iranian administration of the region in two back-to-back announcements laying out how the Gaza endgame will work. Front and center in these announcements was the U.S. plan for Gaza and the Palestinians, which came with the public imprimatur of Barack Obama himself, the leader of the ruling party in Washington. The Obama plan, which begins with ending Israel’s military operation against Hamas, includes international engagement and investment in Gaza, and the formalization of the status of the Palestinian Territories as a proto-state under American management.
+
+The day before the proclamation on the Palestinians, Team Obama-Biden rolled out its plan for Israel’s northern neighbor, Lebanon. The president’s senior adviser, Hochstein, laid out a parallel multiphase plan for the Hezbollah-run country, which likewise features increased international engagement and cover, supplementing the United States' substantial existing investments in so-called Lebanese state institutions, whose job is to run cover and provide support for Hezbollah.
+
+What was original in the May announcements was the explicit connection that was made between the two plans, by both Washington and Hezbollah, the Iranian-led militia that rules Lebanon and acts as Iran’s local regent. The Lebanese plan would go into effect along with the Gaza plan, i.e., once Israel agrees to a cease-fire, with the Gaza plan being patterned on the Lebanese model. Biden and his team asserted that Israel has already agreed to the framework of the U.S. plan, signaling that Jerusalem, like Hezbollah, has signed on to Washington’s demands, just as it signed on to the Lebanese maritime deal—though, to be fair, it’s hard to see how the Israelis could turn Washington down in the middle of a war.
+
+Hamas has not yet agreed to a cease-fire, though. Here, the United States appears to be faced by something of a logical conundrum. By granting Hamas victory in its war with Israel in the form of a cease-fire, followed by continuing control of the Gaza Strip, followed by a U.S.-backed state, the United States has in fact removed the motivation for Hamas to make any reciprocal concessions whatsoever. Why should it? Which is likely why the United States has engaged in only muted criticism of Israel’s military maneuvers in Rafah, which are the only form of leverage the United States has left to get the ball rolling on its regional blueprint.
+
+So what does that blueprint consist of? It starts with U.S. investment and government grants to both countries that dwarf anything that the United States put into Gaza before the war. For Tehran, such investment is a subsidy; for the United States, it is a way of “containing the fallout” from any pesky rocket attacks, since Israel will be naturally constrained from bombing anything built with U.S. money or housing U.S. personnel. Then, there is active U.S. training and equipment for Lebanese and Palestinian armed forces, which in turn serve as shields and auxiliaries for much larger and more powerful terrorist armies that dominate both societies. Funding these (fictional) entities is like creating a large, heavily armed version of UNRWA, the supposed U.N. “relief agency” that funded Hamas and its tunnels before Oct. 7. Except the human shields these entities deploy will now be American military trainers.
+
+***
+
+What gives the Lebanon model its legs though, is not just that it joins the U.S. interest to the interests of the most powerful groups in Lebanese and Palestinian societies—namely, terrorist armies controlled by Iran. It extends beyond the shared particulars of international investment and engagement to a much older regional template with deep historical and geographical underpinnings. Perhaps the most relevant iteration of this template dates back to the mid-19th century. To understand the dynamics of the American-Iranian blueprint for Israel-Palestine-Lebanon, we therefore need to look to the late Ottoman Empire and its relationships with the Great Powers of Europe.
+
+In the early 19th century, while the Ottomans continued to control the eastern Mediterranean, the rise of Egypt under Muhammad Ali led to the reemergence of a familiar pattern in the Levant, which is the rise of a set of fractured territories that functioned as a buffer zone between rival centers of power. Only now, there was a twist. European power was now a major factor that the weakened Ottoman Empire not only couldn't circumvent but also depended on. Most notable among this power were the British, whose intervention was critical in repelling Egypt from Beirut and Acre in 1840.
+
+In turn, European industrial and military strength forced the Ottomans to grant competing European powers concessions and privileges in the Ottoman realm, especially in the Levant, where European consuls played a considerable active commercial and political role. By then, the Sick Man of Europe, as the Ottoman Empire was known, had become an important square on the European chessboard of power.
+
+As a consequence of this regional and international intrigue, the sectarian bloodletting that broke out, especially in Lebanon in 1841, following Egypt’s retreat, led to the creation of a special administrative arrangement in Mount Lebanon—a compromise between the French, British, and Ottomans brokered by Austrian Chancellor Klemens von Metternich. The arrangement replaced the abolished French-supported Emirate of Mount Lebanon, which had become a vassal of Egypt, and established two kaymakam’s, or sub-governorates, one Druze and one Maronite.
+
+The sub-governorate system was marked by increased sectarian hostilities, culminating in the massacres of 1860, which led to another European military landing in Beirut, this time led by the French. Moreover, it resulted in the creation of a new arrangement in Mount Lebanon, negotiated between the Ottomans and the Great Powers of Britain, France, Russia, Austria, and Prussia: a special province (mutasarriflık). The idea of the special province was proposed by British diplomat Lord Dufferin. The province would be under European supervision and administered by a non-Arab Ottoman Christian governor chosen by the Sublime Porte, who would be advised by a local administrative council of sectarian notables. The province would have only a gendarmerie, trained by the French.
+
+The province’s economy—silk monoculture—was dependent on the European market. European (and, by 1840, American) religious, educational, and health institutions as well as trade investments, concessions, and infrastructure projects (railways and port installations) were already well established in Beirut, the center of a separate administrative division (vilayet), which served as the base for the activities of the participants in Mount Lebanon’s affairs and for French influence in the region.
+
+This complex arrangement remained in place until World War I. The war changed the calculus of the Great Powers toward the Ottoman Empire, which entered the war on the side of the Axis powers. The Ottomans picked the wrong side, and after more than 500 years, their empire was finished.
+
+According to the new local arrangements ratified by the League of Nations following the San Remo Conference, the Special Province of Mount Lebanon was replaced with a French mandate. Meanwhile, the Special Province of Jerusalem, created by the Ottomans 11 years after the Special Province of Mount Lebanon, albeit with different calculations, was replaced with the British mandate for Palestine, which was quickly partitioned into two districts, Transjordan (now the Hashemite Kingdom of Jordan) and Palestine (now Israel, with an asterisk).
+
+***
+
+I am hardly suggesting that the brain trust of the Obama-Biden team has sat down and poured over 19th c. Levantine history in search for a historical precedent and a set of maps to underpin its policy. Rather, stumbling into the Lebanese model of the special province is, for one, a testament to the enduring structures of the Levant and its interaction with imperial powers. As it happens, the same structural elements that lent themselves to the Ottoman carve-up lend themselves naturally to the vision driving policy in Washington since Barack Obama’s first term: the realignment with Iran and the reconfiguration of the regional order. In that regard, the Obama-Biden policy represents at once a massive expansion of the special province model as well as its inversion, in some key ways.
+
+Whereas European intervention was driven by competing interests, which necessitated upholding a declining empire and managing its holdings while keeping rivals in check, Obama’s division of the region is intended to elevate a regional middle power and inflate its status across the region while orchestrating regional and international investment in its territories so that it can “do its job” as a U.S. partner. The 19th-century Mount Lebanon special province was a compromise between direct Ottoman rule and the revival of a French-sponsored principality. In Obama’s conceptual universe, the special province is recognized as an Iranian satrapy ruled directly by the Islamic Revolutionary Guard Corps and its local legion—with an accepted American presence, whose function is to provide protection and direct investment, both of which serve in turn to prop up Tehran.
+
+Refracted through this lens, the Obama-Biden team’s policy in Lebanon offers a sketch of its adapted special province model, which it plans to implement in the Palestinian Territories following the end of Israel’s monthslong incursion into Gaza.
+
+Underscoring the privileged place the Lebanese special province holds in Team Obama-Biden’s regional configuration is the American physical headquarters in the tiny country: the U.S. embassy. The second smallest Arab country is host to the second largest U.S. embassy on earth (the largest is in Iraq)—a 43-acre, $1 billion mammoth.
+
+The obvious question one might ask in response to hearing these numbers (the architectural renderings of this behemoth are even more startling), is: Why would America make that kind of investment in a pseudo-state run by Iran’s local representative? The answer is, precisely because it is Iranian territory.
+
+The purpose of large-scale U.S. investment in Lebanon and its state institutions, as well as the building of an embassy that resembles a LEED-certified version of the Crac des Chevaliers in the hills overlooking Beirut, is not to attempt a hostile takeover or, to use the insufferable jargon of Washington hands, to “compete” with Iran. The last time there was perceived hostility in the American involvement in Lebanon, Iran blew up the U.S. embassy and the Marine barracks and kidnapped and murdered U.S. citizens in Beirut throughout the 1980s. No, the U.S. involvement is understood by all to be friendly and beneficial, aimed not at undermining the Iranian domain but at consolidating it in a joint venture. Much like the British with the Ottomans, American involvement in the Iranian realm is that of a patron—only not for the purpose of managing a declining empire, but for the inverted goal of consolidating the realm of an artificially inflated middle power that will administer the region under America’s aegis, for a price.
+
+If the colossal embassy is the physical marker of the American investment in the Special Province of Lebanon, the principal avenue for U.S. involvement has been in the training and equipping of the security forces. Although they’re called the Lebanese Armed Forces, internally, the special province’s army performs gendarmerie functions; national security and defense policy and actual military functions are the domain of the Iranian court and its local military force, Hezbollah.
+
+In recent years, however, the Obama-Biden team incorporated the LAF into the American counterterrorism enterprise, which has defined U.S. involvement in the region over the past quarter century. That enterprise is another facet of the American-Iranian partnership. Centering U.S. investment in the LAF on a target acceptable and beneficial to Iran is intended to reassure Tehran as to the shared nature of the force’s mission.
+
+As another token of reassurance, the LAF is deployed along the border with Israel. In addition to playing a support role to Hezbollah in the area, positioning the U.S.-sponsored force in between Israel and the Iranian force means that an Israeli attack would have to target an American asset.
+
+The same model is now being reproduced for the Special Province of Palestine. An ongoing Team Obama-Biden project is to stand up a Palestinian analogue to the LAF—let’s call it the PAF, an enterprise that began well before Oct. 7 under the supervision of the Obama-Biden team’s security coordinator in the Palestinian Territories, Lt. Gen. Michael Fenzel. Fenzel is also the administration’s point man in its campaign targeting Jews in Judea and Samaria—the flip side of the PAF policy, both of which are designed to consolidate a nascent Palestinian Special Province.
+
+Initially, Fenzel was said to have been standing up a 5,000-strong force trained and equipped by the United States. The objective of Fenzel’s force is to sharply curtail IDF operations in Judea and Samaria, setting the stage for full Palestinian control of the West Bank under American supervision.
+
+Like its Lebanese counterpart, the PAF has been folded into the U.S. counterterrorism framework. Being designated a U.S. counterterrorism partner force is code for both guaranteed perpetual American investment and reassurance to Iran that the force will safeguard, not subvert, Tehran’s realm. The PAF’s job is not to go after Iranian forces, such as Hamas or Palestinian Islamic Jihad, but to act as an auxiliary force and, by virtue of American sponsorship, as a constraint on IDF activity.
+
+Since Oct. 7, Washington’s plans for the PAF have gone into overdrive. Like the LAF up north, the PAF features prominently in Team Obama-Biden’s “Day After” plan—that is, the formalization of the Palestinian Special Province, with its dual jurisdictions (or kaza, in keeping with Ottoman terminology). Within a couple of months since Oct. 7, the administration was already putting out talkers about the need to “strengthen” and “beef up” Fenzel’s nascent PAF. After a meeting between Fenzel and Palestinian Authority Intelligence Chief Majed Faraj in late 2023, chatter about guaranteeing funding (including salaries) for the force started to pop up in D.C.—again, following the LAF template. It's said that during a meeting between Fenzel and the commander of the PA’s National Security Forces, Nidal Abu Dukhan, they also discussed U.S. salaries for the PAF.
+
+In Lebanon, the Obama-Biden team has already deployed American trainers and special forces personnel. In fact, the U.S. military routinely docks naval vessels in Lebanese ports and uses an airstrip in the Hezbollah-controlled Bekaa to land airlifts of equipment for the LAF—turning all of these places into infrastructure that is ostensibly part of America’s global counterterrorism efforts.
+
+In Gaza, the U.S.-made pier was intended to fulfill a related function and convey a similar signal. Though it might have been swept away by the sea and had to be temporarily relocated to avoid being washed out to sea again before it was finally decommissioned after failing to deliver the humanitarian supply surge that was its supposed function, the salient point is the persistence of the Obama-Biden team in rebuilding it over two months, at a cost of over a quarter of a billion in taxpayer money. In other words, at every level, administration messaging is persistently laying the groundwork for an ever-deepening level of direct management in the Palestine Special Province. In addition to Fenzel, the Obama-Biden team is said to be considering appointing a U.S. official to serve as the top civilian adviser who would be “based in the region” and would “work closely with the commanding officer” of a postwar security force in Gaza (which the State Department prefers to describe as a “gendarmerie”).
+
+***
+
+According to a recent report, the Biden administration “is coalescing around plans for an interim ‘Palestinian Council’ to govern Gaza and a security coalition in which the U.S. military will play a major role.” It’s perhaps a little on the nose, within the scope of the Ottoman analogy, for the United States to set up an “administrative council” for the Palestine mutasarrifate, but there it is. As with the “government of Lebanon,” the point of a council, whether it’s packed with notables or “technocrats,” is to provide cover for the Iranian clients who will continue to wield real power, propping up the American sick man of the Middle East.
+
+In the Lebanese Special Province, the United States has assembled a consultative group with the ambassadors of four other nations (France, Egypt, Qatar, and Saudi Arabia) to manage the selection of a new “president”—a post that’s been vacant since 2022. The administration’s public pronouncements emphasize the importance of a new “president” for Lebanon. In reality, the administration’s point man on Lebanon, Special Adviser Hochstein, deals with Hezbollah through its ally, Shiite militia leader and “Speaker of Parliament,” Nabih Berri, among other cutouts, like former Director of General Security Abbas Ibrahim. The Lebanese government is a facade, an official channel to funnel U.S. aid and to cover for the fact that the administration is dealing as directly as possible with Hezbollah.
+
+In fact, that’s precisely what the administration did in 2022 when it imposed its maritime boundary agreement, which in reality functioned as an official American designation of the Special Province of Lebanon as a U.S. protectorate, thereby discouraging Israeli military operations in that territory. Hochstein, then as now, talked as directly as he could with Hezbollah and advanced Iran’s interests, which he then pressed a client minority prime minister in Israel to accept in their entirety. One measure of the authority of this designation is that Israeli operations in Lebanon still haven’t happened, despite the “loss of sovereignty” declared by the U.S. secretary of state—who apparently gets to declare such things without the Israelis feeling able to say “boo.” Even after the Majdal Shams slaughter, Hochstein reportedly told Defense Minister Yoav Gallant that the United States opposed a strike on Beirut.
+
+Intensified U.S. meddling in Israeli domestic affairs as well as the direct interference in Israel’s foreign and security policy since the maritime deal was sealed provide insight into where the state of Israel fits in the Obama-Biden team’s regional architecture alongside the joint U.S.-Iranian special provinces. Israel is a troublesome client, to be managed when possible by the U.S.-aligned Herodian faction inside the country, combined with external pressure like having Israel’s prime minister declared a war criminal by the International Criminal Court.
+
+In the same vein, Washington’s framing of Iran’s April 13 direct missile and drone attack against Israel is instructive. Israel was constrained from retaliating against the Iranians. Instead, the United States made clear that the only legitimate defensive arrangement is one by the American-led integrated regional missile defense, which will effectively calibrate the “hit” that Israel is required to take, while ruling out of bounds any Israeli response to being attacked. That is to say, not only would Israel be denied the autonomous decision-making to go on the offensive, but also, even its defense would be contingent on what the United States deemed acceptable. Accordingly, following Hezbollah’s rocket attack on Majdal Shams, the administration reportedly listed targets in Lebanon that it considers to be out of bounds for Israel, including Hezbollah’s stronghold in the southern suburbs of Beirut.
+
+The Obama team sees Jewish sovereignty as a destabilizing factor in the regional arrangement with Iran, which therefore must be constrained, if not outright abolished. To fit in Obama’s “regional integration” vision, Israel has to be reduced to a province, with no sovereign control over its defense policy with regard to the Iranians and their holdings in the U.S.-managed regional architecture, in which you’ll have the subdivision, or kaza, of Gaza and the kaza of the West Bank united within a new mutasarrifate of Palestine. Jerusalem will be a special jurisdiction shared with Israel under international supervision. The Lebanon mutasarrifate will be in the north, and the Israel sanjak (in keeping with Ottoman terminology), minus Jerusalem, in the middle. Within these units, “administrative councils” will be the official governing bodies, which we will refer to as “governments” while actual power resides elsewhere.
+
+In the Lebanon mutasarrifate Hezbollah, as Iran’s local mutasarrif, is the recognized ruler that the United States deals with through the administrative council. In the Palestine mutasarrifate, a council including notables, clans, bedouins, technocrats, and the PA will serve the same function, as Hamas retains its position as the de facto authority and representative of Iran. The U.S. envoy to the Palestine mutasarrifate will manage the former. In the Israel sanjak, a “unity government” and a strong judicial council will serve as the American clients answering to the U.S. proconsul and the security coordinator.
+
+EOF
+
+Bill Ackman - @BillAckman
+In light of today’s news, I thought I would try to take a step back and provide perspective on what this is really all about.
+
+I first became concerned about 
+@Harvard
+ when 34 Harvard student organizations, early on the morning of October 8th before Israel had taken any military actions in Gaza, came out publicly in support of Hamas, a globally recognized terrorist organization, holding Israel ‘solely responsible’ for Hamas’ barbaric and heinous acts.
+
+How could this be? I wondered.
+
+When I saw President Gay’s initial statement about the massacre, it provided more context (!) for the student groups’ statement of support for terrorism. The protests began as pro-Palestine and then became anti-Israel.  Shortly, thereafter, antisemitism exploded on campus as protesters who violated Harvard’s own codes of conduct were emboldened by the lack of enforcement of Harvard’s rules, and kept testing the limits on how aggressive, intimidating, and disruptive they could be to Jewish and Israeli students, and the student body at large. Sadly, antisemitism remains a simmering source of hate even at our best universities among a subset of students.
+
+A few weeks later, I went up to campus to see things with my own eyes, and listen and learn from students and faculty. I met with 15 or so members of the faculty and a few hundred students in small and large settings, and a clearer picture began to emerge.
+
+I ultimately concluded that antisemitism was not the core of the problem, it was simply a troubling warning sign – it was the “canary in the coal mine” – despite how destructive it was in impacting student life and learning on campus.  
+
+I came to learn that the root cause of antisemitism at Harvard was an ideology that had been promulgated on campus, an oppressor/oppressed framework, that provided the intellectual bulwark behind the protests, helping to generate anti-Israel and anti-Jewish hate speech and harassment.
+
+Then I did more research. The more I learned, the more concerned I became, and the more ignorant I realized I had been about DEI, a powerful movement that has not only pervaded Harvard, but the educational system at large. I came to understand that Diversity, Equity, and Inclusion was not what I had naively thought these words meant.
+
+I have always believed that diversity is an important feature of a successful organization, but by diversity I mean diversity in its broadest form: diversity of viewpoints, politics, ethnicity, race, age, religion, experience, socioeconomic background, sexual identity, gender, one’s upbringing, and more. 
+
+What I learned, however, was that DEI was not about diversity in its purest form, but rather DEI was a political advocacy movement on behalf of certain groups that are deemed oppressed under DEI’s own methodology.
+
+Under DEI, one’s degree of oppression is determined based upon where one resides on a so-called intersectional pyramid of oppression where whites, Jews, and Asians are deemed oppressors, and a subset of people of color, LGBTQ people, and/or women are deemed to be oppressed. Under this ideology which is the philosophical underpinning of DEI as advanced by Ibram X. Kendi and others, one is either an anti-racist or a racist. There is no such thing as being “not racist.”
+
+Under DEI’s ideology, any policy, program, educational system, economic system, grading system, admission policy, (and even climate change due its disparate impact on geographies and the people that live there), etc. that leads to unequal outcomes among people of different skin colors is deemed racist. 
+
+As a result, according to DEI, capitalism is racist, Advanced Placement exams are racist, IQ tests are racist, corporations are racist, or in other words, any merit-based program, system, or organization which has or generates outcomes for different races that are at variance with the proportion these different races represent in the population at large is by definition racist under DEI’s ideology.
+
+In order to be deemed anti-racist, one must personally take action to reverse any unequal outcomes in society. The DEI movement, which has permeated many universities, corporations, and state, local and federal governments, is designed to be the anti-racist engine to transform society from its currently structurally racist state to an anti-racist one.
+
+After the death of George Floyd, the already burgeoning DEI movement took off without any real challenge to its problematic ideology. Why, you might ask, was there so little pushback? The answer is that anyone who dared to raise a question which challenged DEI was deemed a racist, a label which could severely impact one’s employment, social status, reputation and more. Being called a racist got people cancelled, so those concerned about DEI and its societal and legal implications had no choice but to keep quiet in this new climate of fear.
+
+The techniques that DEI has used to squelch the opposition are found in the Red Scares and McCarthyism of decades past. If you challenge DEI, “justice” will be swift, and you may find yourself unemployed, shunned by colleagues, cancelled, and/or you will otherwise put your career and acceptance in society at risk.
+
+The DEI movement has also taken control of speech. Certain speech is no longer permitted. So-called “microaggressions” are treated like hate speech. “Trigger warnings” are required to protect students. “Safe spaces” are necessary to protect students from the trauma inflicted by words that are challenging to the students’ newly-acquired world views. Campus speakers and faculty with unapproved views are shouted down, shunned, and cancelled.
+
+These speech codes have led to self-censorship by students and faculty of views privately held, but no longer shared. There is no commitment to free expression at Harvard other than for DEI-approved views. This has led to the quashing of conservative and other viewpoints from the Harvard campus and faculty, and contributed to Harvard’s having the lowest free speech ranking of 248 universities assessed by the Foundation of Individual Rights and Expression.
+
+When one examines DEI and its ideological heritage, it does not take long to understand that the movement is inherently inconsistent with basic American values. Our country since its founding has been about creating and building a democracy with equality of opportunity for all. Millions of people have left behind socialism and communism to come to America to start again, as they have seen the destruction leveled by an equality of outcome society.
+
+The E for “equity” in DEI is about equality of outcome, not equality of opportunity.
+
+DEI is racist because reverse racism is racism, even if it is against white people (and it is remarkable that I even need to point this out). Racism against white people has become considered acceptable by many not to be racism, or alternatively, it is deemed acceptable racism. While this is, of course, absurd, it has become the prevailing view in many universities around the country.
+
+You can say things about white people today in universities, in business or otherwise, that if you switched the word ‘white’ to ‘black,’ the consequences to you would be costly and severe.
+
+To state what should otherwise be self-evident, whether or not a statement is racist should not depend upon whether the target of the racism is a group who currently represents a majority or minority of the country or those who have a lighter or darker skin color. Racism against whites is as reprehensible as it is against groups with darker skin colors.
+
+Martin Luther King’s most famous words are instructive:
+
+“I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character.”
+
+But here we are in 2024, being asked and in some cases required to use skin color to effect outcomes in admissions (recently deemed illegal by the Supreme Court), in business (likely illegal yet it happens nonetheless) and in government (also I believe in most cases to be illegal, except apparently in government contracting), rather than the content of one’s character. As such, a meritocracy is an anathema to the DEI movement. DEI is inherently a racist and illegal movement in its implementation even if it purports to work on behalf of the so-called oppressed.
+
+And DEI’s definition of oppressed is fundamentally flawed.
+
+I have always believed that the most fortunate should help the least fortunate, and that our system should be designed in such a way as to maximize the size of the overall pie so that it will enable us to provide an economic system which can offer quality of life, education, housing, and healthcare for all.
+
+America is a rich country and we have made massive progress over the decades toward achieving this goal, but we obviously have much more work to do. Steps taken on the path to socialism – another word for an equality of outcome system – will reverse this progress and ultimately impoverish us all. We have seen this movie many times.
+
+Having a darker skin color, a less common sexual identity, and/or being a woman doesn’t make one necessarily oppressed or even disadvantaged. While slavery remains a permanent stain on our country’s history – a fact which is used by DEI to label white people as oppressors – it doesn’t therefore hold that all white people generations after the abolishment of slavery should be held responsible for its evils. Similarly, the fact that Columbus discovered America doesn’t make all modern-day Italians colonialists.
+
+An ideology that portrays a bicameral world of oppressors and the oppressed based principally on race or sexual identity is a fundamentally racist ideology that will likely lead to more racism rather than less. A system where one obtains advantages by virtue of one’s skin color is a racist system, and one that will generate resentment and anger among the un-advantaged who will direct their anger at the favored groups. 
+
+The country has seen burgeoning resentment and anger grow materially over the last few years, and the DEI movement is an important contributor to our growing divisiveness. Resentment is one of the most important drivers of racism. And it is the lack of equity, i.e, fairness, in how DEI operates, that contributes to this resentment.
+
+I was accused of being a racist from the President of the NAACP among others when I posted on 
+@X
+ that I had learned that the Harvard President search process excluded candidates that did not meet the DEI criteria. I didn’t say that former President Gay was hired because she was a black woman. I simply said that I had heard that the search process by its design excluded a large percentage of potential candidates due to the DEI limitations. My statement was not a racist one. It was simply the empirical truth about the Harvard search process that led to Gay’s hiring.
+
+When former President Gay was hired, I knew little about her, but I was instinctually happy for Harvard and the black community. Every minority community likes to see their representatives recognized in important leadership positions, and it is therefore an important moment for celebration. I too celebrated this achievement.  I am inspired and moved by others’ success, and I thought of Gay’s hiring at the pinnacle leadership position at perhaps our most important and iconic university as an important and significant milestone for the black community.
+
+I have spent the majority of my life advocating on behalf of and supporting members of disadvantaged communities including by investing several hundreds of millions of dollars of philanthropic assets to help communities in need with economic development, sensible criminal justice reform, poverty reduction, healthcare, education, workforce housing, charter schools, and more.
+
+I have done the same at Pershing Square Capital Management when, for example, we completed one of the largest IPOs ever with the substantive assistance of a number of minority-owned, women-owned, and Veteran-owned investment banks. Prior to the Pershing Square Tontine, Ltd. IPO, it was standard practice for big corporations occasionally to name a few minority-owned banks in their equity and bond offerings, have these banks do no work and sell only a de minimis amount of stock or bonds, and allocate to them only 1% or less of the underwriting fees so that the issuers could virtue signal that they were helping minority communities.
+
+In our IPO, we invited the smaller banks into the deal from the beginning of the process so they could add real value. As a result, the Tontine IPO was one of the largest and most successful IPOs in history with $12 billion of demand for a $4 billion deal by the second day of the IPO, when we closed the books. The small banks earned their 20% share of the fees for delivering real and substantive value and for selling their share of the stock. 
+
+Compare this approach to the traditional one where the small banks do effectively nothing to earn their fees – they aren’t given that opportunity – yet, they get a cut of the deal, albeit a tiny one. The traditional approach does not create value for anyone. It only creates resentment, and an uncomfortable feeling from the small banks who get a tiny piece of the deal in a particularly bad form of affirmative action.
+
+While I don’t think our approach to working with the smaller banks has yet achieved the significant traction it deserves, it will hopefully happen eventually as the smaller banks build their competencies and continue to earn their fees, and other issuers see the merit of this approach. We are going to need assistance with a large IPO soon so we are looking forward to working with our favored smaller banks.
+
+I have always believed in giving disadvantaged groups a helping hand. I signed the Giving Pledge for this reason. My life plan by the time I was 18 was to be successful and then return the favor to those less fortunate. This always seemed to the right thing to do, in particular, for someone as fortunate as I am.
+
+All of the above said, it is one thing to give disadvantaged people the opportunities and resources so that they can help themselves. It is another to select a candidate for admission or for a leadership role when they are not qualified to serve in that role.
+
+This appears to have been the case with former President Gay’s selection. She did not possess the leadership skills to serve as Harvard’s president, putting aside any questions about her academic credentials. This became apparent shortly after October 7th, but there were many signs before then when she was Dean of the faculty.
+
+The result was a disaster for Harvard and for Claudine Gay.
+
+The Harvard board should not have run a search process which had a predetermined objective of only hiring a DEI-approved candidate. In any case, there are many incredibly talented black men and women who could have been selected by Harvard to serve as its president so why did the Harvard Corporation board choose Gay?
+
+One can only speculate without knowing all of the facts, but it appears Gay’s leadership in the creation of Harvard’s Office of Diversity, Equity, Inclusion and Belonging and the penetration of the DEI ideology into the Corporation board room perhaps made Gay the favored candidate.  The search was also done at a time when many other top universities had similar DEI-favored candidate searches underway for their presidents, reducing the number of potential candidates available in light of the increased competition for talent.
+
+Unrelated to the DEI issue, as a side note, I would suggest that universities should broaden their searches to include capable business people for the role of president, as a university president requires more business skills than can be gleaned from even the most successful academic career with its hundreds of peer reviewed papers and many books. Universities have a Dean of the Faculty and a bureaucracy to oversee the faculty and academic environment of the university.  It therefore does not make sense that the university president has to come through the ranks of academia, with a skill set unprepared for university management.
+
+The president’s job – managing thousands of employees, overseeing a $50 billion endowment, raising money, managing expenses, capital allocation, real estate acquisition, disposition, and construction, and reputation management – are responsibilities that few career academics are capable of executing. Broadening the recruitment of candidates to include top business executives would also create more opportunities for diverse talent for the office of the university president.
+
+Furthermore, Harvard is a massive business that has been mismanaged for a long time. The cost structure of the University is out of control due in large part to the fact that the administration has grown without bounds. Revenues are below what they should be because the endowment has generated a 4.5% annualized return for the last decade in one of the greatest bull markets in history, and that low return is not due to the endowment taking lower risks as the substantial majority of its assets are invested in illiquid and other high-risk assets.
+
+The price of the product, a Harvard education, has risen at a rate well in excess of inflation for decades, (I believe it has grown about 7-8% per annum) and it is now about $320,000 for four years of a liberal arts education at Harvard College. As a result, the only students who can now afford Harvard come from rich families and poor ones. The middle class can’t get enough financial aid other than by borrowing a lot of money, and it is hard to make the economics work in life after college when you graduate with large loan balances, particularly if you also attend graduate school.
+
+The best companies in the world grow at high rates over many decades. Harvard has grown at a de minimis rate. Since I graduated 35 years ago, the number of students in the Harvard class has grown by less than 20%. What other successful business do you know that has grown the number of customers it serves by less than 20% in 35 years, and where nearly all revenue growth has come from raising prices?
+
+In summary, there is a lot more work to be done to fix Harvard than just replacing its president. That said, the selection of Harvard’s next president is a critically important task, and the individuals principally responsible for that decision do not have a good track record for doing so based on their recent history, nor have they done a good job managing the other problems which I have identified above.
+
+The Corporation board led by Penny Pritzker selected the wrong president and did inadequate due diligence about her academic record despite Gay being in leadership roles at the University since 2015 when she became dean of the Social Studies department.
+
+The Board failed to create a discrimination-free environment on campus exposing the University to tremendous reputational damage, to large legal and financial liabilities, Congressional investigations and scrutiny, and to the potential loss of Federal funding, all while damaging the learning environment for all students.
+
+And when concerns were raised about plagiarism in Gay’s research, the Board said these claims were “demonstrably false” and it threatened the NY Post with “immense” liability if it published a story raising these issues.
+
+It was only after getting the story cancelled that the Board secretly launched a cursory, short-form investigation outside of the proper process for evaluating a member of the faculty’s potential plagiarism. When the Board finally publicly acknowledged some of Gay’s plagiarism, it characterized the plagiarism as “unintentional” and invented new euphemisms, i.e., “duplicative language” to describe plagiarism, a belittling of academic integrity that has caused grave damage to Harvard’s academic standards and credibility.
+
+The Board’s three-person panel of “political scientist experts” that to this day remain unnamed who evaluated Gay’s work failed to identify many examples of her plagiarism, leading to even greater reputational damage to the University and its reputation for academic integrity as the whistleblower and the media continued to identify additional problems with Gay’s work in the days and weeks thereafter.
+
+According to the NY Post, the Board also apparently sought to identify the whistleblower and seek retribution against him or her in contravention to the University’s whistleblower protection policies.
+
+Despite all of the above, the Board “unanimously” gave its full support for Gay during this nearly four-month crisis, until eventually being forced to accept her resignation earlier today, a grave and continuing reputational disaster to Harvard and to the Board.
+
+In a normal corporate context with the above set of facts, the full board would resign immediately to be replaced by a group nominated by shareholders. In the case of Harvard, however, the Board nominates itself and its new members. There is no shareholder vote mechanism to replace them.
+
+So what should happen?
+
+The Corporation Board should not remain in their seats protected by the unusual governance structure which enabled them to obtain their seats. 
+
+The Board Chair, Penny Pritzker, should resign along with the other members of the board who led the campaign to keep Claudine Gay, orchestrated the strategy to threaten the media, bypassed the process for evaluating plagiarism, and otherwise greatly contributed to the damage that has been done. Then new Corporation board members should be identified who bring true diversity, viewpoint and otherwise, to the board.
+
+The Board should not be principally comprised of individuals who share the same politics and views about DEI. The new board members should be chosen in a transparent process with the assistance of the 30-person Board of Overseers. There is no reason the Harvard board of 12 independent trustees cannot be comprised of the most impressive, high integrity, intellectually and politically diverse members of our country and globe. We have plenty of remarkable people to choose from, and the job of being a director just got much more interesting and important. It is no longer, nor should it ever have been, an honorary and highly political sinecure.
+
+The ODEIB should be shut down, and the staff should be terminated. The ODEIB has already taken down much of the ideology and strategies that were on its website when I and others raised concerns about how the office operates and who it does and does not represent. Taking down portions of the website does not address the fundamentally flawed and racist ideology of this office, and calls into further question the ODEIB’s legitimacy. 
+
+Why would the ODEIB take down portions of its website when an alum questioned its legitimacy unless the office was doing something fundamentally wrong or indefensible?
+
+Harvard must once again become a meritocratic institution which does not discriminate for or against faculty or students based on their skin color, and where diversity is understood in its broadest form so that students can learn in an environment which welcomes diverse viewpoints from faculty and students from truly diverse backgrounds and experiences.
+
+Harvard must create an academic environment with real academic freedom and free speech, where self-censoring, speech codes, and cancel culture are forever banished from campus.  
+
+Harvard should become an environment where all students of all persuasions feel comfortable expressing their views and being themselves. In the business world, we call this creating a great corporate culture, which begins with new leadership and the right tone at the top. It does not require the creation of a massive administrative bureaucracy.
+
+These are the minimum changes necessary to begin to repair the damage that has been done.
+
+A number of faculty at the University of Pennsylvania have proposed a new constitution which can be found at http://pennforward.com, which has been signed by more than 1,200 faculty from Penn, Harvard, and other universities. Harvard would do well to adopt Penn’s proposed new constitution or a similar one before seeking to hire its next president. 
+
+A condition of employment of the new Harvard president should be the requirement that the new president agrees to strictly abide by the new constitution. He or she should take an oath to that effect.
+
+Today was an important step forward for the University.  It is time we restore Veritas to Harvard and again be an exemplar that graduates well-informed, highly-educated leaders of exemplary moral standing and good judgment who can help bring our country together, advance our democracy, and identify the important new discoveries that will help save us from ourselves.
+
+We have a lot more work to do. Let’s get at it.
+2:03 AM · Jan 3, 2024  https://x.com/BillAckman/status/1742441534627184760?s=20
+
+
+By Michael Lind
+
+Labor’s Lost
+
+In America today, we have informal labor cartels for the college-educated elite, while private sector unions for the working class are all but annihilated
+
+
+
+What was called “the Labor Question” a century ago has returned to the forefront of public debate, thanks to highly publicized attempts to unionize companies as varied as Amazon and The New York Times, and in spite of the efforts of the flacks of the neoliberal left and libertarian right (and the billionaires and corporations who fund them) to keep public attention focused on the culture war instead of the class war.
+
+According to Gallup, 71% of the public approves of labor unions—the highest percentage since 1965—with 90% support among Democrats, 66% among independents, and 47% among Republicans. But because of partisanship and class interests, these views are not translated by the Democratic and Republican parties into support for organized labor. This is largely a result of the increasingly elitist nature of American politics. Both parties have superrich donors who are more or less libertarian—socially liberal and economically libertarian. The Silicon Valley and Hollywood elites who fund the Democrats are as hostile to organized labor as Republican-leaning agribusiness and logistics industries.
+
+The social base of the Democrats now consists of upscale, mostly white, college-educated voters for whom abortion, subsidized solar and wind power, and the imposition of race and gender quotas in all areas of American society are more urgent priorities than organizing warehouse workers or raising the minimum wage, even if cultural progressives pay lip service to organized labor. Meanwhile, even though most Republican voters of all races are working class, the most influential group within the GOP is the mostly affluent minority of the population—fewer than 10% of Americans—who are self-employed owners of small businesses that hire workers. Portraying themselves as victims squeezed between big business above and the working class below, most small business owners are and always have been ferociously hostile to any reform that increases the ability of their employees to bargain for higher wages, benefits, or better working conditions.
+
+Thanks to the indifference of Democrats and the hostility of Republicans, union membership among private sector workers in the U.S. has collapsed from around a third of the population in the 1950s to around 6% today—lower than it was during the presidency of Herbert Hoover, before Franklin Roosevelt’s pro-labor New Deal.
+
+For more than half a century, American employers have used a variety of methods to annihilate organized labor in the American private sector. One method has been geographic labor arbitrage—transferring production from unionized sites in pro-labor states to nonunion workforces in anti-labor, right-to-work states in the American South or West, or to countries with poor and repressed workers like Mexico and China. The flip side of geographic labor arbitrage is immigration arbitrage, replacing unionized workers with immigrants who are not unionized and, in the case of illegal immigrants and guest workers, are easily bullied and exploited by employers. The outsourcing of jobs formerly done in the firm by unionized workers to nonunion contractors is another tool used by corporate America to crush private sector worker power in the U.S.
+
+Not content with annihilating collective bargaining, lobbyists for American employers and their political allies have weakened the power of individual, nonunionized workers using legal devices like noncompete contracts, by which workers sign away their right to work for rivals of their employer if they quit, no-poaching/no-hiring agreements among firms in the same industry, and other unethical but sometimes legal anti-worker schemes.
+
+Libertarian ideologues believe that all of this is to the good. Unions are labor cartels and all cartels are bad because they might raise consumer prices above their supposed free market rate. The marginal revenue product (MRP) theory of compensation holds that in a free market, workers will be paid on the basis of their exact contribution to the profitable enterprise (which—surprise!—just happens to be what any particular employer prefers to pay). According to this extreme theory, any government interventions in the U.S. labor market, including minimum wages and limits on immigration of workers from other countries, in addition to pro-union laws, can only backfire to the detriment of consumers—the one group that matters.
+
+Most of the champions of the free market who make these arguments in public derive their income not from selling goods or services in the marketplace but from the gifts of donors as professors, think tank fellows, or journalists at money-losing publications subsidized by rich libertarians.
+
+Often they equate their radical libertarianism with “classical liberalism.” But the actual classical liberals of the 18th and 19th centuries had far more nuanced views about labor. Adam Smith noted that in bargaining for wages, employers had a good deal more power than employees. Two of the leading classical liberal economists of 19th-century Britain, J.S. Mill and Alfred Marshall, believed that trade unions were necessary to balance the excessive power of employers in wage negotiations.
+
+Once we recognize that wages are not set automatically by a mystical market equilibrium, but result from the relative bargaining power of the two sides in wage negotiations, the libertarian theory of the labor market collapses. To be sure, there are limits on what firms—and government agencies and nonprofit organizations—can pay their workers, from the janitor to the CEO. But most profitable firms have some discretion in how they divide their profits among shareholders, managers, and workers, after other costs have been paid. Excessive pay for workers can ruin a profitable firm, but so can excessive pay to managers or excessive payouts to shareholders.
+
+A majority of Americans in the private sector work for firms with more than 500 employees, notwithstanding nonsense about small business being the backbone of America. The inconsistent ideologues of the free market right tell us that it is perfectly acceptable for the numerous managers and shareholders running these large companies to combine and act as a single unit in negotiating wages with employees, and yet somehow it is unacceptable for workers to team up and bargain as a unit on the other side of the table. The idea that a janitor can somehow bargain with the pooled, collective force of the managers and owners of a large corporation is so absurd that only libertarians or academic economists could believe it.
+
+If organized labor in the private sector is so weak, why are there any well-paid workers in the U.S. at all? The answer is that unions are not the only kinds of labor cartels that boost the incomes of their members. Professional associations and trade associations seek to limit the number of practitioners in their occupations, thus increasing the prices of goods and services—preferably by means of government licensing laws, with safety invoked as a rationale. This dynamic explains why, as union membership has declined, there has been an explosion of licensing requirements in occupations like florists. The public must be protected from accidentally lethal bouquets! The American Medical Association (AMA) has been more successful in limiting the number of practitioners in the U.S. than their equivalents in the law and the academy, where surplus J.D.s and Ph.D.s have driven down incomes and reduced employment prospects for lawyers and professors.
+
+Many affluent Americans in the private sector benefit from working for large corporations. The more successful firms possess the market power to set prices higher than they would be able to in conditions of hypothetical pure competition thanks to their status as natural monopolies or oligopolies. These surplus profits or “rents” can be used not only to enrich CEOs but to shower money on middle managers and other well-paid if often unproductive employees of the “email caste.”
+
+In most large organizations of the private, public, and nonprofit sectors, compensation is determined by “salary bands.” The highest wage permitted in the salary band for a receptionist will be lower than the lowest wage in the salary band for a vice president, even if the company depends on the receptionist and the vice president is a bumbling incompetent. Under antitrust law, firms cannot collude with one another to fix the wages they pay, but in practice this is precisely what most large-scale employers in the U.S. do. Although salary bands reflect the logic of an anti-worker cartel among similar firms, agencies, or nonprofits, those in the well-paid salary bands naturally do not protest their comfortable oppression.
+
+The myth of meritocracy—the global market rewards educated workers with high skills—usefully camouflages the quasi-feudal reality of salary bands, in which compensation is based on status and job definition, rather than an employee’s contribution to the organization. The better-paid, higher-status jobs tend to require employees with more expensive and time-consuming college credentials, whether skills learned in college are used on the job or not. In the real world, your pay is largely determined by your place in the organized hierarchy—by your “band”—and not by your personal talents or education. The same person with the same skills might make vastly more money as a corporate vice president in a large, oligopolistic firm, than as an outsourced consultant, just as a unionized janitor working as an employee of a unionized firm could make much more than a nonunion employee of an outsourced janitorial services contractor.
+
+In short, most wages in the U.S. and similar countries are rigged, directly or indirectly, by law and custom. In some occupations they are rigged in favor of workers, in others they are rigged against workers. What has happened in the last half century is not the emergence of a free labor market as a result of the decline of labor unions. While one kind of labor cartel, the trade union, has declined, other labor cartels flourish—the licensing cartels that inflate the pay of doctors, lawyers, and professors, and the pro-employer, price-fixing, salary band cartels formed by oligopolistic firms that share their high profits with the CEOs and their well-paid subordinates. In America today, we have informal labor cartels for fortunate members of the college-educated managerial and professional elite, while labor cartels in the form of trade unions for members of the private sector working class have been all but annihilated.
+
+It gets worse. Millions of Americans—particularly in low-wage service sectors like fast food and house-cleaning—are paid too little to live on as individuals, much less to provide for their families. Because most Americans are not libertarian sociopaths, our society will not allow great numbers of American workers to starve to death or go without medical care. To make up the gap between the poverty wage paid by employers and a minimally decent income and access to benefits, American taxpayers—generous to a fault—subsidize a variety of welfare programs, from the Earned Income Tax Credit (a cash subsidy for underpaid workers) to food stamps, housing vouchers, and Medicaid. These are benefits not just for those who are unemployed for various reasons but for millions of Americans who work full time but are still poor because their employers pay so little. This low-wage/high-welfare system succeeds in eliminating extreme poverty—but at the price of shifting the burden of paying the costs of survival for low-wage workers from their employers, and the consumers of the goods and services they produce, to taxpayers. Much of the American welfare state functions as an indirect subsidy to cheap-labor employees in fast-food restaurants, warehouses, and agricultural plants.
+
+Suppose that the U.S., like Switzerland, had federal referendums. Suppose that a referendum asked, “Should every employer be required to pay a wage sufficient to keep workers and their families out of poverty, with no need for them to rely on welfare programs?” The hypothetical referendum would probably pass by an overwhelming majority.
+
+But as we have seen, both national parties in the U.S. are controlled by different factions of the overclass. The progressive professionals of the left-overclass benefit from low wages for household servants and urban service workers, with the taxpayers picking up the rest of the tab. At the same time, many small business owners on the Republican right can pay poverty wages to their workers, knowing that the workers and their children won’t starve thanks to the generosity of government safety nets. The professionals of the left and the small business owners of the right furthermore agree with each other, and disagree with most Americans of all races, that immigration is too low in the U.S. The overclass left wants an immigration-fed buyer’s market in low-wage, nonunion maids and nannies and gardeners and the overclass right wants an immigration-fed buyer’s market of low-wage, nonunion factory and field workers.
+
+Both the elite left and the elite right prefer the hysterics of the culture war to the politics of class war. Identity politics allows progressives to feel good about demanding more nonwhite and female and nonbinary representation on corporate boards, even as they quietly pay their illegal immigrant maids and nannies off the books. Culture war politics allows conservatives to pose as champions of the working class by defending working-class social values, even as conservative politicians oppose any attempt to improve the wages or benefits or workplace bargaining power of working-class voters.
+
+The bad news is that the power of the American working class in the private sector is lower than it has been since before the New Deal. The good news is that, having hit bottom, worker power in the U.S. has nowhere to go but up.
+
+What would an agenda for rebuilding worker power in America after half a century of employer assaults and bipartisan neglect look like? To begin with, a successful coalition in favor of restoring power to American workers would have to be nonpartisan. The near-total identification of America’s moribund legacy unions with the Democratic Party machine is incompatible with that goal. In the private and public sectors alike, organized labor in whatever form it may take should focus solely on wages, working conditions, and benefits, should welcome workers of all parties or no party, and should leave other subjects to other organizations.
+
+Rebuilding worker power in America requires rebuilding collective bargaining in some form. Even if anti-worker legal devices like noncompete clauses or at-will employment were outlawed, most Americans in the private sector cannot realistically bargain over wages and benefits on an individual basis with the large firms they work for.
+
+But collective bargaining need not follow the site-by-site, enterprise-based unionization system that is the legacy of the 1935 National Labor Relations Act (the Wagner Act). One reason that employers have been more successful in destroying private sector unions in the U.S. than in similar industrial democracies is the difficulty of enterprise-based collective bargaining, which sees labor organizers struggling to unionize one Amazon warehouse at a time. Sectoral bargaining, in contrast, which compels all of the firms in a given industry or occupation to negotiate wages and benefits with all of the relevant unions in that sector, is common in other democracies, but less so in the United States, with the notable exception of railway and transit workers and airline employees under the Railway Labor Act of 1926.
+
+It is possible to have sectorwide collective bargaining coverage, even with low levels of union membership. In France, few workers belong to trade unions, but most workers are covered by industrywide agreements negotiated between unions and employers. Given the near-extinction of unions among private sector workers in the U.S., the priority of pro-worker reform should be to expand collective bargaining coverage rather than union membership.
+
+In occupations with many dispersed and hard-to-unionize workers, wage boards or worker standards boards provide an alternative to traditional collective bargaining between employers. These are commissions with representatives of labor, business, government, and sometimes consumers, which are empowered by law to set or recommend wages, working hours, and benefits in a particular low-wage field. The state of New York has used the wage board system to raise wages for fast-food workers.
+
+Some progressives might argue that it would be easier simply to legislate high wages and universal benefits and good working conditions, rather than try to rebuild worker power in the United States. But if such pro-worker reforms were politically possible in the absenceof institutions representing labor in the private sector, they would have happened already.
+
+Won’t Republicans oppose any effort to restore worker power in America? As we have seen, the rich libertarian donors and anti-labor small business owners who control the machinery of the Republican Party do not represent either the values or interests of the majority of Republican voters, who are increasingly members of the working class of all races. The faction of the GOP that is not hostile in principle to organized labor is limited for now to a small number of intellectuals and journalists and a few elected Republicans like Josh Hawley and Marco Rubio. But that faction may grow, thanks to the out-migration of country-club Republicans to the increasingly upscale Democrats and the influx of former working-class Democrats into the GOP.
+
+As a philosophical matter, conservatism and libertarianism have distinct views of the Labor Question. British One-Nation Tories, French Gaullists and German Christian Democrats have not automatically sided with businesses against trade unions or rejected government intervention on behalf of national working classes. It is difficult to be a nationalist—even an inclusive “civic” nationalist—while opposing reforms that benefit the vast majority of the adults of a modern nation, who are workers compelled by necessity to sell their labor to employers in order to avoid either poverty or humiliating reliance on public welfare. Nor is it a coincidence that the Christian and Jewish traditions have often criticized bad employers and championed the interests of workers and the poor, while the leading intellectuals of the libertarian right have been atheists like Ayn Rand.
+
+It took half a century for organized business to destroy organized labor in the American private sector. It will take at least that long to rebuild worker power in America. The sooner we begin, the sooner we can replace class war in the United States with class peace.
+
+the preceeding: <<https://thedailyscroll.substack.com/p/what-happened-today-august-29-2023#:~:text=Tablet%2C%20December%202022-,Labor%E2%80%99s%20Lost,-In%20America%20today>>
+
+
+by Caroline Glick
+
+In Israel as in states throughout the Western world, the political Left is an ecosystem of power, and not merely a political camp. It starts with the parties of the center- and far-Left. But it encompasses far more powerful institutions and actors, as well. These include the universities, the vast majority of media organs, most of the entertainment industry, and much of the economic elite. The Left also comprises the senior ranks of the security establishment—represented most clearly by politically active retired generals.
+
+The most powerful component of the Left’s ecosystem in Israel is the legal fraternity, which is comprised of the Supreme Court, the attorney general, the state prosecution, and the legal advisors to the Knesset and the government ministries.
+
+Despite its control over vast power sources in Israeli society, the Left does not control the Israeli people themselves. A significant majority of Israelis define themselves as right-of-center. In the last elections, right-of-center parties won 64 seats in Israel’s 120-seat parliament, the Knesset. The Left’s parties won a mere 46 seats. The other 10 seats went to two anti-Zionist Arab parties, which are supported by, but are not constituent parts of, the leftist ecosystem.
+
+For the first three decades after Israel won independence in 1948, the Left held all levers of political power. The Labor Party controlled the government and the Knesset. And its loyalists controlled the Left’s nonpolitical ecosystem. When, under Menachem Begin, the Right won its first electoral victory in 1977, Begin disappointed his loyalists and opted not to replace Labor’s apparatchiks in the public sector, the Israel Defense Forces, the legal system, and state media with his own. Begin’s refusal to bring in his own people was a source of rancor, but when viewed in its historical context, his decision had its merits. Labor’s apparatchiks were old-left socialists, ideologically, but they were experienced in the ways of governance and they were patriots. True, they despised Begin, but they loved Israel. Leaving them secure in their positions may have made them political thorns in Begin’s side, but it didn’t harm the national interest.
+
+Begin would probably have acted differently today.
+
+Like the Left throughout the Western world, over the past 30 years, Israel’s Left has abandoned labor union politics for cultural Marxism and post-nationalism. Its new globalist ideals render the Left’s constituent parts contemptuous, and increasingly hateful, of Israel’s nationalist majority.
+
+ref:  https://carolineglick.com/what-the-battle-for-judicial-reform-is-really-about/
+
+
+
+
+The Rise of the Political Class
+
+
+by James A. Bacon
+Yesterday I noted polling of the race for governor in which Republican candidate Glenn Youngkin showed remarkable strength among minorities — 25% support from Blacks and 55% from Hispanics — along with a shrinking majority of Whites. That poll might have been an outlier, so I don’t want to make too much of it. But, if it is a fair representation of popular sentiment, it lends credence to the idea that American politics is undergoing a seismic realignment, and we’re seeing that realignment here in Virginia.
+
+For most of my life, Democrats were viewed as the party that stood for the interests of the “working man” and minorities, especially Blacks. Republicans were seen as representing the interests of the overwhelmingly white middle and moneyed classes. That’s rapidly changing. Increasingly, the Democratic coalition encompasses a highly educated White vanguard allied with the “marginalized” elements of society against the interests, represented by Republicans, of the broad working class and middle class regardless of race or ethnicity.
+
+The key to understanding this transfiguration is what I have referred to often as the “political class” — most recently in a post headlined, “Parents and the Political Class.” In that post, I suggested that the aims of the political class were antithetical to the interests of the middle class.
+In the comments, Bacon’s Rebellioncontributor Dick Hall-Sizemore asked me what I meant by “political class.” It’s a reasonable question. The meaning is not self evident, but understanding the nature of the political class is fundamental to comprehending the deep structure of society and politics underlying the daily headlines.
+
+When I use the term “political class,” I am thinking not only of elected officials and senior government officials in policy-making decisions but the panoply of people working for trade associations, advocacy groups, lobbying firms, campaign consultancies and others whose make their livelihoods getting people elected, influencing public opinion, and shaping laws and regulations.
+
+The political class is not a “class” in the classic Marxian sense. Writing in the 19th century, Marx divided humanity into the aristocracy, peasantry, bourgeoisie and proletariat, depending upon the relationship to the “means of production.” He did not foresee the evolution of the United States in the 21st-century.
+The relationship between America’s political class and the means of production is complex. Members of the political class function as intermediaries or brokers between the populace and the state — they redistribute wealth rather than create it. Also, to the degree that the activities of the political class are funded by tax-privileged foundations and nonprofits, the class can be described as parasitical. Members of the political class live off society’s store of wealth while producing nothing to add to it.
+
+To the extent that the political class extracts wealth from society through what economists refer to as rent seeking, it is similar to the old landowning aristocracies of Europe whose nobles performed no useful economic function. Admittedly, it is a different kind of aristocracy. Status is not conferred by birth. Status and power are largely earned — although, to be sure, family connections and wealth give some budding redistributors a head start over others.
+
+Marx wrote of “class consciousness,” a recognition by, say, the proletariat, that all proletarians shared a common interest in opposition to the bourgeoisie. There is no consciousness in the early 21st century among politicians and their coterie of minions and hangers that they comprise a distinct class. But a lack of self-consciousness makes the class no less real. What America’s political class has done is embrace a distinctive and defining ideology — call it wokeness — centered on race, social justice and climate change that gives it purpose and meaning.
+Obscuring the development of consciousness within the political class is the division into two partisan factions, which we know as the Democratic Party and Republican Party.
+
+Of the two factions, the infinitely more powerful is the Democratic Party. Democrats have driven the United States in the direction of greater federal government power relentlessly over the past century. Republicans, whose ideology favors smaller government, have fought a rearguard action. The so-called Reagan Revolution was not a revolution at all. It merely delayed the march of the U.S. toward becoming an all-powerful unitary state. Indeed, these days one can make the argument that Republicans under Donald Trump abandoned their small-government creed and opted for a strong government that serves their constituencies.
+
+Regardless of who wins the most elections, Democrats have far greater and more enduring institutional power. That’s because their world view aligns with that of another class — one you won’t find in Marxist theory but which libertarian (and transgender) economic historian Deirdre McCloskey refers to as “the clerisy.” Members of this intellectual class, entry of which typically requires a university education, predominate in industries and professions that shape mass culture. Universities. News media. Publishing houses. Hollywood. Music. Museums. Think tanks. And, increasingly, K-12 schools.
+Again, I am talking about class in conceptual terms. In the real world, there is so much mobility between the clerisy and the political class that from a sociological perspective, the two have become virtually indistinguishable.
+
+It is a mistake to assume that members of the political class and the clerisy seek only to enrich themselves — although, to be sure, they fare far better financially than ordinary Americans. Very few are centimillionaires or billionaires who made their money in business (an activity that is held in low esteem, again, like Marx’s aristocrats). But many do fall into the so-called “one percent” of top income earners, and many more into the second percent. Joe Biden, who once described himself as the “poorest man in Congress” has managed to accumulate $8 million to $9 million in net worth — a small fortune to most Americans. Barack Obama, who devoted most of his life to public service, has wealth valued at $70 million.
+
+No, what sets apart the political class is the exercise of power, which is an end unto itself. The modern-day political class and clerisy have taken it upon themselves to transform society from stem to stern. Their shared ideology, wokeness, casts middle-class Americans with traditional values as bigots, racists, and anti-scientific climate deniers, in sum, the enemy. Those Americans, who have been largely ejected from the seats of private institutional power, seek redress through politics under the banner of the Republican Party. For a time Donald Trump was their tribune.
+
+Whatever future Trump may have in the reconstituting Republican Party, significant elements of the Black and Hispanic communities — particularly middle-class business owners, church goers, and military veterans — reject the ideology of wokeness and are shifting allegiance from Democrats to Republicans.
+Occasionally, I refer in my posts to the “ruling class.” In Virginia today, Democrats and their factotums and allies comprise the ruling class. They are raising taxes, re-engineering the energy economy under the guise of combating climate change, using the institutions of K-12 and higher education to pit racial “oppressors” against their “victims,” and cleansing the culture of traditional icons and memorials. I sometimes call them “rulers” because many of the changes they are imposing on the country have not come about as a result of the legislative process. To an increasing degree, change is driven by regulatory action, lawsuits, and mob rule.
+
+Republicans are no paragons of Democratic governance, as the Jan. 6 events at the U.S. Capitol and persistent cries that the “election was stolen” remind us. But they are not the initiators of the political sea change. They are lashing out against forces unleashed by the political class/clerisy who, regardless of who sits in the White House or in Virginia’s governor’s mansion, will continue to command the dominant institutions of this country.
+There are many more nuances to explore, but this is enough for now. I hope to have provided some clarity about what I mean when I refer to the political class.
+
+https://www.baconsrebellion.com/wp/the-rise-of-the-political-class/
+
+
+ 
+
+ The World Seen From Rome
+
+Code: ZE06091209
+
+Date: 2006-09-12
+
+Papal Address at University of Regensburg
+
+"Three Stages in the Program of De-Hellenization"
+
+REGENSBURG, Germany, SEPT. 12, 2006 (Zenit.org).- Here is a Vatican translation of the address Benedict XVI delivered to scientists at the University of Regensburg, where he was a professor and vice rector from 1969 to 1971.
+
+This is the version the Pope read, adding some allusions of the moment, which he hopes to publish in the future, complete with footnotes. Hence, the present text must be considered provisional.
+
+* * *
+
+Faith, Reason and the University
+Memories and Reflections
+
+Distinguished Ladies and Gentlemen,
+
+It is a moving experience for me to stand and give a lecture at this university podium once again. I think back to those years when, after a pleasant period at the Freisinger Hochschule, I began teaching at the University of Bonn. This was in 1959, in the days of the old university made up of ordinary professors. The various chairs had neither assistants nor secretaries, but in recompense there was much direct contact with students and in particular among the professors themselves. We would meet before and after lessons in the rooms of the teaching staff. There was a lively exchange with historians, philosophers, philologists and, naturally, between the two theological faculties.
+
+Once a semester there was a "dies academicus," when professors from every faculty appeared before the students of the entire university, making possible a genuine experience of "universitas": The reality that despite our specializations which at times make it difficult to communicate with each other, we made up a whole, working in everything on the basis of a single rationality with its various aspects and sharing responsibility for the right use of reason -- this reality became a lived experience.
+
+The university was also very proud of its two theological faculties. It was clear that, by inquiring about the reasonableness of faith, they too carried out a work which is necessarily part of the "whole" of the "universitas scientiarum," even if not everyone could share the faith which theologians seek to correlate with reason as a whole. This profound sense of coherence within the universe of reason was not troubled, even when it was once reported that a colleague had said there was something odd about our university: It had two faculties devoted to something that did not exist: God. That even in the face of such radical skepticism it is still necessary and reasonable to raise the question of God through the use of reason, and to do so in the context of the tradition of the Christian faith: This, within the university as a whole, was accepted without question.
+
+I was reminded of all this recently, when I read the edition by professor Theodore Khoury (Muenster) of part of the dialogue carried on -- perhaps in 1391 in the winter barracks near Ankara -- by the erudite Byzantine emperor Manuel II Paleologus and an educated Persian on the subject of Christianity and Islam, and the truth of both.
+
+It was probably the emperor himself who set down this dialogue, during the siege of Constantinople between 1394 and 1402; and this would explain why his arguments are given in greater detail than the responses of the learned Persian. The dialogue ranges widely over the structures of faith contained in the Bible and in the Koran, and deals especially with the image of God and of man, while necessarily returning repeatedly to the relationship of the "three Laws": the Old Testament, the New Testament and the Koran.
+
+In this lecture I would like to discuss only one point -- itself rather marginal to the dialogue itself -- which, in the context of the issue of "faith and reason," I found interesting and which can serve as the starting point for my reflections on this issue.
+
+In the seventh conversation ("diÃ¡lesis" -- controversy) edited by professor Khoury, the emperor touches on the theme of the jihad (holy war). The emperor must have known that sura 2:256 reads: "There is no compulsion in religion." It is one of the suras of the early period, when Mohammed was still powerless and under [threat]. But naturally the emperor also knew the instructions, developed later and recorded in the Koran, concerning holy war.
+
+Without descending to details, such as the difference in treatment accorded to those who have the "Book" and the "infidels," he turns to his interlocutor somewhat brusquely with the central question on the relationship between religion and violence in general, in these words: "Show me just what Mohammed brought that was new, and there you will find things only evil and inhuman, such as his command to spread by the sword the faith he preached."
+
+The emperor goes on to explain in detail the reasons why spreading the faith through violence is something unreasonable. Violence is incompatible with the nature of God and the nature of the soul. "God is not pleased by blood, and not acting reasonably ("syn logo") is contrary to God's nature. Faith is born of the soul, not the body. Whoever would lead someone to faith needs the ability to speak well and to reason properly, without violence and threats.... To convince a reasonable soul, one does not need a strong arm, or weapons of any kind, or any other means of threatening a person with death...."
+
+The decisive statement in this argument against violent conversion is this: Not to act in accordance with reason is contrary to God's nature. The editor, Theodore Khoury, observes: For the emperor, as a Byzantine shaped by Greek philosophy, this statement is self-evident. But for Muslim teaching, God is absolutely transcendent. His will is not bound up with any of our categories, even that of rationality. Here Khoury quotes a work of the noted French Islamist R. Arnaldez, who points out that Ibn Hazn went so far as to state that God is not bound even by his own word, and that nothing would oblige him to reveal the truth to us. Were it God's will, we would even have to practice idolatry.
+
+As far as understanding of God and thus the concrete practice of religion is concerned, we find ourselves faced with a dilemma which nowadays challenges us directly. Is the conviction that acting unreasonably contradicts God's nature merely a Greek idea, or is it always and intrinsically true?
+
+I believe that here we can see the profound harmony between what is Greek in the best sense of the word and the biblical understanding of faith in God. Modifying the first verse of the Book of Genesis, John began the prologue of his Gospel with the words: "In the beginning was the 'logos.'"
+
+This is the very word used by the emperor: God acts with logos. Logos means both reason and word -- a reason which is creative and capable of self-communication, precisely as reason. John thus spoke the final word on the biblical concept of God, and in this word all the often toilsome and tortuous threads of biblical faith find their culmination and synthesis. In the beginning was the logos, and the logos is God, says the Evangelist. The encounter between the biblical message and Greek thought did not happen by chance.
+
+The vision of St. Paul, who saw the roads to Asia barred and in a dream saw a Macedonian man plead with him: "Come over to Macedonia and help us!" (cf. Acts 16:6-10) -- this vision can be interpreted as a "distillation" of the intrinsic necessity of a rapprochement between biblical faith and Greek inquiry.
+
+In point of fact, this rapprochement had been going on for some time. The mysterious name of God, revealed from the burning bush, a name which separates this God from all other divinities with their many names and declares simply that he is, already presents a challenge to the notion of myth, to which Socrates' attempt to vanquish and transcend myth stands in close analogy. Within the Old Testament, the process which started at the burning bush came to new maturity at the time of the Exile, when the God of Israel, an Israel now deprived of its land and worship, was proclaimed as the God of heaven and earth and described in a simple formula which echoes the words uttered at the burning bush: "I am."
+
+This new understanding of God is accompanied by a kind of enlightenment, which finds stark expression in the mockery of gods who are merely the work of human hands (cf. Psalm 115). Thus, despite the bitter conflict with those Hellenistic rulers who sought to accommodate it forcibly to the customs and idolatrous cult of the Greeks, biblical faith, in the Hellenistic period, encountered the best of Greek thought at a deep level, resulting in a mutual enrichment evident especially in the later wisdom literature.
+
+Today we know that the Greek translation of the Old Testament produced at Alexandria -- the Septuagint -- is more than a simple (and in that sense perhaps less than satisfactory) translation of the Hebrew text: It is an independent textual witness and a distinct and important step in the history of Revelation, one which brought about this encounter in a way that was decisive for the birth and spread of Christianity. A profound encounter of faith and reason is taking place here, an encounter between genuine enlightenment and religion. From the very heart of Christian faith and, at the same time, the heart of Greek thought now joined to faith, Manuel II was able to say: Not to act "with logos" is contrary to God's nature.
+
+In all honesty, one must observe that in the late Middle Ages we find trends in theology which would sunder this synthesis between the Greek spirit and the Christian spirit. In contrast with the so-called intellectualism of Augustine and Thomas, there arose with Duns Scotus a voluntarism which ultimately led to the claim that we can only know God's "voluntas ordinata." Beyond this is the realm of God's freedom, in virtue of which he could have done the opposite of everything he has actually done.
+
+This gives rise to positions which clearly approach those of Ibn Hazn and might even lead to the image of a capricious God, who is not even bound to truth and goodness. God's transcendence and otherness are so exalted that our reason, our sense of the true and good, are no longer an authentic mirror of God, whose deepest possibilities remain eternally unattainable and hidden behind his actual decisions.
+
+As opposed to this, the faith of the Church has always insisted that between God and us, between his eternal Creator Spirit and our created reason there exists a real analogy, in which unlikeness remains infinitely greater than likeness, yet not to the point of abolishing analogy and its language (cf. Lateran IV).
+
+God does not become more divine when we push him away from us in a sheer, impenetrable voluntarism; rather, the truly divine God is the God who has revealed himself as logos and, as logos, has acted and continues to act lovingly on our behalf. Certainly, love "transcends" knowledge and is thereby capable of perceiving more than thought alone (cf. Ephesians 3:19); nonetheless it continues to be love of the God who is logos. Consequently, Christian worship is "logic latreÃ­a" -- worship in harmony with the eternal Word and with our reason (cf. Romans 12:1).
+
+This inner rapprochement between biblical faith and Greek philosophical inquiry was an event of decisive importance not only from the standpoint of the history of religions, but also from that of world history -- it is an event which concerns us even today. Given this convergence, it is not surprising that Christianity, despite its origins and some significant developments in the East, finally took on its historically decisive character in Europe. We can also express this the other way around: This convergence, with the subsequent addition of the Roman heritage, created Europe and remains the foundation of what can rightly be called Europe.
+
+The thesis that the critically purified Greek heritage forms an integral part of Christian faith has been countered by the call for a de-Hellenization of Christianity -- a call which has more and more dominated theological discussions since the beginning of the modern age. Viewed more closely, three stages can be observed in the program of de-Hellenization: Although interconnected, they are clearly distinct from one another in their motivations and objectives.
+
+De-Hellenization first emerges in connection with the fundamental postulates of the Reformation in the 16th century. Looking at the tradition of scholastic theology, the Reformers thought they were confronted with a faith system totally conditioned by philosophy, that is to say an articulation of the faith based on an alien system of thought. As a result, faith no longer appeared as a living historical Word but as one element of an overarching philosophical system.
+
+The principle of "sola scriptura," on the other hand, sought faith in its pure, primordial form, as originally found in the biblical Word. Metaphysics appeared as a premise derived from another source, from which faith had to be liberated in order to become once more fully itself. When Kant stated that he needed to set thinking aside in order to make room for faith, he carried this program forward with a radicalism that the Reformers could never have foreseen. He thus anchored faith exclusively in practical reason, denying it access to reality as a whole.
+
+The liberal theology of the 19th and 20th centuries ushered in a second stage in the process of de-Hellenization, with Adolf von Harnack as its outstanding representative. When I was a student, and in the early years of my teaching, this program was highly influential in Catholic theology too. It took as its point of departure Pascal's distinction between the God of the philosophers and the God of Abraham, Isaac and Jacob.
+
+In my inaugural lecture at Bonn in 1959, I tried to address the issue. I will not repeat here what I said on that occasion, but I would like to describe at least briefly what was new about this second stage of de-Hellenization. Harnack's central idea was to return simply to the man Jesus and to his simple message, underneath the accretions of theology and indeed of Hellenization: This simple message was seen as the culmination of the religious development of humanity. Jesus was said to have put an end to worship in favor of morality. In the end he was presented as the father of a humanitarian moral message.
+
+The fundamental goal was to bring Christianity back into harmony with modern reason, liberating it, that is to say, from seemingly philosophical and theological elements, such as faith in Christ's divinity and the triune God. In this sense, historical-critical exegesis of the New Testament restored to theology its place within the university: Theology, for Harnack, is something essentially historical and therefore strictly scientific. What it is able to say critically about Jesus is, so to speak, an expression of practical reason and consequently it can take its rightful place within the university.
+
+Behind this thinking lies the modern self-limitation of reason, classically expressed in Kant's "Critiques," but in the meantime further radicalized by the impact of the natural sciences. This modern concept of reason is based, to put it briefly, on a synthesis between Platonism (Cartesianism) and empiricism, a synthesis confirmed by the success of technology.
+
+On the one hand it presupposes the mathematical structure of matter, its intrinsic rationality, which makes it possible to understand how matter works and use it efficiently: This basic premise is, so to speak, the Platonic element in the modern understanding of nature. On the other hand, there is nature's capacity to be exploited for our purposes, and here only the possibility of verification or falsification through experimentation can yield ultimate certainty. The weight between the two poles can, depending on the circumstances, shift from one side to the other. As strongly positivistic a thinker as J. Monod has declared himself a convinced Platonist/Cartesian.
+
+This gives rise to two principles which are crucial for the issue we have raised. First, only the kind of certainty resulting from the interplay of mathematical and empirical elements can be considered scientific. Anything that would claim to be science must be measured against this criterion. Hence the human sciences, such as history, psychology, sociology and philosophy, attempt to conform themselves to this canon of scientificity.
+
+A second point, which is important for our reflections, is that by its very nature this method excludes the question of God, making it appear an unscientific or pre-scientific question. Consequently, we are faced with a reduction of the radius of science and reason, one which needs to be questioned.
+
+We shall return to this problem later. In the meantime, it must be observed that from this standpoint any attempt to maintain theology's claim to be "scientific" would end up reducing Christianity to a mere fragment of its former self. But we must say more: It is man himself who ends up being reduced, for the specifically human questions about our origin and destiny, the questions raised by religion and ethics, then have no place within the purview of collective reason as defined by "science" and must thus be relegated to the realm of the subjective.
+
+The subject then decides, on the basis of his experiences, what he considers tenable in matters of religion, and the subjective "conscience" becomes the sole arbiter of what is ethical. In this way, though, ethics and religion lose their power to create a community and become a completely personal matter. This is a dangerous state of affairs for humanity, as we see from the disturbing pathologies of religion and reason which necessarily erupt when reason is so reduced that questions of religion and ethics no longer concern it. Attempts to construct an ethic from the rules of evolution or from psychology and sociology, end up being simply inadequate.
+
+Before I draw the conclusions to which all this has been leading, I must briefly refer to the third stage of de-Hellenization, which is now in progress. In the light of our experience with cultural pluralism, it is often said nowadays that the synthesis with Hellenism achieved in the early Church was a preliminary inculturation which ought not to be binding on other cultures.
+
+The latter are said to have the right to return to the simple message of the New Testament prior to that inculturation, in order to inculturate it anew in their own particular milieux. This thesis is not only false; it is coarse and lacking in precision. The New Testament was written in Greek and bears the imprint of the Greek spirit, which had already come to maturity as the Old Testament developed.
+
+True, there are elements in the evolution of the early Church which do not have to be integrated into all cultures. Nonetheless, the fundamental decisions made about the relationship between faith and the use of human reason are part of the faith itself; they are developments consonant with the nature of faith itself.
+
+And so I come to my conclusion. This attempt, painted with broad strokes, at a critique of modern reason from within has nothing to do with putting the clock back to the time before the Enlightenment and rejecting the insights of the modern age. The positive aspects of modernity are to be acknowledged unreservedly: We are all grateful for the marvelous possibilities that it has opened up for mankind and for the progress in humanity that has been granted to us. The scientific ethos, moreover, is the will to be obedient to the truth, and, as such, it embodies an attitude which reflects one of the basic tenets of Christianity.
+
+The intention here is not one of retrenchment or negative criticism, but of broadening our concept of reason and its application. While we rejoice in the new possibilities open to humanity, we also see the dangers arising from these possibilities and we must ask ourselves how we can overcome them.
+
+We will succeed in doing so only if reason and faith come together in a new way, if we overcome the self-imposed limitation of reason to the empirically verifiable, and if we once more disclose its vast horizons. In this sense theology rightly belongs in the university and within the wide-ranging dialogue of sciences, not merely as a historical discipline and one of the human sciences, but precisely as theology, as inquiry into the rationality of faith.
+
+Only thus do we become capable of that genuine dialogue of cultures and religions so urgently needed today. In the Western world it is widely held that only positivistic reason and the forms of philosophy based on it are universally valid. Yet the world's profoundly religious cultures see this exclusion of the divine from the universality of reason as an attack on their most profound convictions.
+
+A reason which is deaf to the divine and which relegates religion into the realm of subcultures is incapable of entering into the dialogue of cultures. At the same time, as I have attempted to show, modern scientific reason with its intrinsically Platonic element bears within itself a question which points beyond itself and beyond the possibilities of its methodology. Modern scientific reason quite simply has to accept the rational structure of matter and the correspondence between our spirit and the prevailing rational structures of nature as a given, on which its methodology has to be based.
+
+Yet the question why this has to be so is a real question, and one which has to be remanded by the natural sciences to other modes and planes of thought -- to philosophy and theology. For philosophy and, albeit in a different way, for theology, listening to the great experiences and insights of the religious traditions of humanity, and those of the Christian faith in particular, is a source of knowledge, and to ignore it would be an unacceptable restriction of our listening and responding.
+
+Here I am reminded of something Socrates said to Phaedo. In their earlier conversations, many false philosophical opinions had been raised, and so Socrates says: "It would be easily understandable if someone became so annoyed at all these false notions that for the rest of his life he despised and mocked all talk about being -- but in this way he would be deprived of the truth of existence and would suffer a great loss."
+
+The West has long been endangered by this aversion to the questions which underlie its rationality, and can only suffer great harm thereby. The courage to engage the whole breadth of reason, and not the denial of its grandeur -- this is the program with which a theology grounded in biblical faith enters into the debates of our time.
+
+"Not to act reasonably (with logos) is contrary to the nature of God," said Manuel II, according to his Christian understanding of God, in response to his Persian interlocutor. It is to this great logos, to this breadth of reason, that we invite our partners in the dialogue of cultures. To rediscover it constantly is the great task of the university.
+
+[Translation of German original issued by the Holy See; adapted]
+
+© Copyright 2006 -- Libreria Editrice Vaticana
